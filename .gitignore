@@ -1,0 +1,6 @@
+# local deploy / CLI state (machine-specific, not source)
+.netlify/
+supabase/.temp/
+.DS_Store
+.env
+.env.*
